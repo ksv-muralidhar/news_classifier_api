@@ -1,0 +1,13 @@
+transformers==4.39.3
+tensorflow==2.15.0
+unidecode
+tf-keras==2.15.0
+selenium==4.19.0
+fastapi
+pydantic
+uvicorn
+undetected-chromedriver
+scikit-learn==1.2.2
+cloudpickle
+numpy==1.24.3
+pandas
